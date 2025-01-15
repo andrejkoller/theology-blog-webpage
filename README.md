@@ -10,7 +10,7 @@
   </p>
 </div>
 <div>
-  <p>Demo: <span>https://andrejkoller.github.io/personal-webpage/</span></span></p>
+  <p>Demo: <span>https://andrejkoller.github.io/theology-blog-webpage/</span></span></p>
 </div>
 <div align="center">
   <div>
